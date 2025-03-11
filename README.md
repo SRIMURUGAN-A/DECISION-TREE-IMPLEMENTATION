@@ -36,3 +36,8 @@ A classification report is printed to show performance metrics such as precision
 Visualizing the Decision Tree:
 
 The decision tree structure is plotted using plot_tree(), which helps in understanding decision splits.
+
+
+
+
+OUTPUT : ![Image](https://github.com/user-attachments/assets/c02ef802-3e2b-4932-ae40-2785db798bc0)
